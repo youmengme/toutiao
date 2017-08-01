@@ -1,2 +1,2 @@
 # toutiao
-a temporary project for practise
+It‘s a temporary project for practise。
